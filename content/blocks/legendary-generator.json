@@ -1,0 +1,28 @@
+{
+	"type": "ImpactReactor",
+	"name": "Legendary Generator",
+	"description": "Reactor that makes alot of energy",
+	"itemCapacity": 50,
+	"size": 5,
+	"hasLiquids": true,
+    "powerProduction": 400,
+    "itemDuration" : 10,
+	"consumes": {
+	    "power": 10.0,
+		"item": "copper",
+		"liquid": {
+			"liquid": "slag",
+			"amount": 0.3
+			}
+    },
+	"requirements": [
+		{ "item": "legendary-item", "amount": 5 },
+		{ "item": "boom", "amount": 300 },
+		{ "item": "meem", "amount": 200 },
+		{ "item": "saas", "amount": 100 }
+	],
+	"category": "power",
+	"research": "legendary-mixer",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.05
+}

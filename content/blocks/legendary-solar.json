@@ -1,0 +1,14 @@
+{
+	"type": "SolarGenerator",
+	"name": "Legendary solar panel",
+	"description": "This solar panel one of the best energy generators",
+	"size": 3,
+	"health": 20000,
+    "powerProduction": 30,
+	"requirements": [
+		{"item": "legendary-item", "amount": 5},
+		{"item": "noice", "amount": 100}
+	],
+	"category": "power",
+	"research": "legendary-mixer"
+}

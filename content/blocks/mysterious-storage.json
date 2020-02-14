@@ -1,0 +1,17 @@
+{
+	"name": "Mysterious Storage",
+	"description": "Legendary Storage",
+	"type": "Vault",
+	"itemCapacity": 100000,
+	"hasItems": true,
+ "hasLiquids": false,
+ "research": "legendary-mixer",
+	"health": 20000,
+	"size": 3,
+	"requirements": [
+		{ "item": "legendary-item", "amount": 5 },
+		{ "item": "titanium", "amount": 60 },
+		{ "item": "thorium", "amount": 40 }
+	],
+	"category": "effect"
+}

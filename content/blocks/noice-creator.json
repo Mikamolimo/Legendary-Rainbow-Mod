@@ -1,0 +1,27 @@
+{
+	"category":"crafting",
+	"consumes":{
+		"items":{
+			"items":[
+			{"amount":5,"item":"sand"},{"amount":"1","item":"surge-alloy"}]},
+			"liquid":
+			{"amount":0.05,"liquid":"water"},
+			"power":0.7
+			},
+			"craftTime":60,
+			"description":"forge surge alloy and sand with water to an noice item",
+			"hasItems":true,
+			"hasLiquids":true,
+			"hasPower":true,
+			"idleSound":"respawning",
+			"idleSoundVolume":0.5,
+			"liquid capacity":25,
+			"name":"Noice Creator",
+			"outputItem":{
+				"amount":1,"item":"noice"},
+				"requirements":[
+				{"amount":30,"item":"plastanium"},{"amount":250,"item":"lead"},
+				{"amount":10,"item":"meem"}],
+				"research":"meem-maker",
+				"size":2,"type":"GenericSmelter",
+				"updateEffect":"smeltsmoke"}

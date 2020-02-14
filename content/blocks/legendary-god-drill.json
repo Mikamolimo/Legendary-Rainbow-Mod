@@ -1,0 +1,22 @@
+{
+	"name": "Legendary God Drill",
+	"description": "A very strange drill.",
+	"type": "Drill",
+	"size": 3,
+	"tier": 9999999,
+	"drillTime": -9999999,
+	"consumes": {
+		"power": 3.0,
+		"liquid": {
+			"liquid": "water", 
+			"amount": 0.01,
+			"booster": true
+		}
+	},
+	"requirements": [
+		{ "item": "meem", "amount": 100 },
+		{ "item": "legendary-item", "amount": 5 },
+	],
+	"category": "production",
+	"research": "legendary-mixer"
+}

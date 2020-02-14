@@ -1,0 +1,26 @@
+{
+"category":"effect",
+"type":"overdriveProjector",
+"name":"Legendary Overdriver",
+"health":500,
+"reload":60,
+"range	":10,
+"speedBoost":	10,
+"speedBoostPhase"	:	0,
+"useTime	":400,
+"phaseRangeBoost"	:0,
+"solid":	true,
+"update":	true,
+"hasPower":	true,
+"hasItems	":true,
+"canOverdrive":	 true,
+"requirements":[
+{ "item": "legendary-item", "amount":1},
+],
+"consumes":{
+"power":0.015,
+"items":{
+"items":[]
+}},
+"research":"legendary-mixer"
+}

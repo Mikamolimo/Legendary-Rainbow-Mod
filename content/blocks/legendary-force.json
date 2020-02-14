@@ -1,0 +1,37 @@
+{
+"name":"Legendary Force Projector",
+"description":"If you want to play with challenge, just ignore this projector.",
+"size":2,
+"category":"effect",
+"type":"forceProjector",
+"health":12345,
+"requirements":[
+            {"item":"saas","amount":1000},
+            {"item":"boom","amount":750},
+            {"item":"legendary-item","amount":5}
+                              ],
+"hasItems":true,
+"hasLiquids":true,
+"hasPower":true,
+"consumes":{
+         "power":20,
+         "items":{
+              "items":[
+{
+"item":"noice","amount":1}],
+"booster":true,
+"optional":true 
+             
+         }
+    
+},
+"phaseRadiusBoost":999,
+"phaseUseTime":400,
+"radius":150,
+"breakage":99999,     
+"cooldownNormal":5,
+"cooldownLiquid":10,
+"cooldownBrokenBase":5,
+"basePowerDraw":0.2,
+"research":"force-projector"
+}

@@ -1,0 +1,12 @@
+{
+	"name": "Saas Wall",
+	"description": "saas wallaw",
+	"type": "Wall",
+	"health": 7654,
+	"size": 2,
+	"requirements": [
+		{ "item": "saas", "amount": 100 }
+	],
+	"category": "defense",
+	"research": "titanium-wall"
+}
