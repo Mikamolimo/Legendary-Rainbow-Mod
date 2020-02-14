@@ -1,0 +1,36 @@
+{
+"type": "itemTurret",
+"name": "Shooting Star",
+"description": "Feel free...",
+"targetAir": true,
+"targetGround": true,
+"health": 50000,
+"size": 2,
+"inaccuracy": 5,
+"reload": 10,
+"shootCone": 5,
+"rotateSpeed": 1.5,
+"shots": 6,
+"range": 375,
+"ammo": {
+"saas": {
+"type": "MissileBulletType",
+"lifetime": 200,
+"splashDamageRadius": 30,
+"splashDamage": 20,
+"speed": 3,
+"fragBullets": 2,
+"fragBullet":"lancerLaser",
+"damage": 25,
+"frontColor": "#fe0000",
+"backColor": "#011efe",
+"bulletWidth": 15,
+"bulletHeight": 15}}
+,"requirements": [
+{ "item": "titanium", "amount": 100 },
+{ "item": "thorium", "amount": 50},
+{ "item": "legendary-item", "amount": 20},
+],
+"category":"turret",
+"research":"fuse"
+}
