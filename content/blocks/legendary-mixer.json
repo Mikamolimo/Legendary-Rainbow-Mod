@@ -1,3 +1,32 @@
-{"category":"crafting","consumes":{"items":{"items":[{"amount":1,"item":"saas"},{"amount":1,"item":"meem"},{"amount":1,"item":"noice"},{"amount":1,"item":"dark-item"},{"amount":1,"item":"boom"}]},"power":70},"craftTime":180,"description":"all these crap.....\ntake that",
+{
+"category":"crafting",
+"consumes":{
+"items":{
+"items":[
+{"amount":1,"item":"saas"},
+{"amount":1,"item":"meem"},
+{"amount":1,"item":"noice"},
+{"amount":1,"item":"dark-item"},
+{"amount":1,"item":"boom"}]},
+"power":70},
+"craftTime":180,
+"description":"all these crap.....\ntake that",
 "configurable":true,
-"hasItems":true,"hasLiquids":false,"hasPower":true,"idleSound":"respawning","idleSoundVolume":0.5,"name":"Shining Legendary God Creator","outputItem":{"amount":1,"item":"legendary-item"},"requirements":[{"amount":10,"item":"meem"},{"amount":10,"item":"saas"},{"amount":10,"item":"noice"},{"amount":10,"item":"dark-item"},{"amount":10,"item":"boom"}], "research":"boomer","size":2,"type":"GenericSmelter","updateEffect":"smeltsmoke"}
+"hasItems":true,
+"hasLiquids":false,
+"hasPower":true,
+"idleSound":"respawning",
+"idleSoundVolume":0.5,
+"name":"Shining Legendary God Creator",
+"outputItem":{"amount":1,"item":"legendary-item"},
+"requirements":[
+{"amount":10,"item":"meem"},
+{"amount":10,"item":"saas"},
+{"amount":10,"item":"noice"},
+{"amount":10,"item":"dark-item"},
+{"amount":10,"item":"boom"}],
+"size":2,
+"type":"GenericSmelter",
+"updateEffect":"smeltsmoke",
+"research":"boomer"
+}
