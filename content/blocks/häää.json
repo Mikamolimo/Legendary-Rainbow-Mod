@@ -13,7 +13,7 @@
 "shootSound":"shootBig",
 "hitSound":"explode",
 	"ammo": { 
-		"saas": {
+		"legendary-item": {
     "type": "ArtilleryBulletType",
 "collidesTiles": true,
 			"collidesAir": true,
