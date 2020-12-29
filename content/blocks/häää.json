@@ -32,7 +32,8 @@
 "status": "melting",
 "statusDuration": 6000,
 "fragBullets":20,
-"fragBullet":"ContinuousLaserBulletType"}},
+"fragBullet":{
+"type":"ContinuousLaserBulletType"}}},
 "requirements":[
 		{ "item": "noice", "amount": 100 },
 		{ "item": "legendary-item", "amount":5}],
