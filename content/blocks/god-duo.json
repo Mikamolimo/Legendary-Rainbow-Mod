@@ -7,7 +7,7 @@
 "shots":3,
 	"reload": 300,
 	"range": 650,
-	"ammoUseEffect": "shellEjectSmall",
+
 	"inaccuracy": 0,
 	"rotatespeed": 12,
 	"ammo": { 
