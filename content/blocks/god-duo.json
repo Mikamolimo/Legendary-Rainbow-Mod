@@ -22,6 +22,7 @@
 "shootSound":"artillery",
 "shootEffect":"padlaunch",
     "speed": 2,
+   "frag": true,
     "splashDamageRadius": 2,
     "splashDamage": 9,
     "frontColor": "ffff00",
