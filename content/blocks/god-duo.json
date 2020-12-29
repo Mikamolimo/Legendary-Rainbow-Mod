@@ -5,12 +5,12 @@
 	"health": 20000,
 	"size": 1,
 "shots":3,
-	"reload": 300,
+	"reloadTime": 300,
 	"range": 650,
 
 	"inaccuracy": 0,
 	"rotatespeed": 12,
-	"ammo": { 
+	"ammoTypes": { 
 		"saas": {
     "type": "ArtilleryBulletType",
 "collidesTiles": true,
