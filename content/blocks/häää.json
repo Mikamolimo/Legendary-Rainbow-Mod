@@ -7,7 +7,7 @@
 "shots":1,
 	"reload": 100,
 	"range": 650,
-	"ammoUseEffect": "shellEjectSmall",
+	
 	"inaccuracy": 0,
 	"rotatespeed": 12,
 "shootSound":"shootBig",
