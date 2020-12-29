@@ -5,14 +5,14 @@
 	"health": 20000,
 	"size": 2,
 "shots":1,
-	"reload": 100,
+	"reloadTime": 100,
 	"range": 650,
-	
+	"frag":true,
 	"inaccuracy": 0,
 	"rotatespeed": 12,
 "shootSound":"shootBig",
 "hitSound":"explode",
-	"ammo": { 
+	"ammoTypes": { 
 		"legendary-item": {
     "type": "ArtilleryBulletType",
 "collidesTiles": true,
