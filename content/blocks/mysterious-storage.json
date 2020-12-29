@@ -1,7 +1,7 @@
 {
 	"name": "Mysterious Storage",
 	"description": "Legendary Storage",
-	"type": "Vault",
+	"type": "StorageBlock",
 	"itemCapacity": 100000,
 	"hasItems": true,
  "hasLiquids": false,
