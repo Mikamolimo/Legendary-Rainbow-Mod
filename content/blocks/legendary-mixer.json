@@ -3,14 +3,14 @@
 "consumes":{
 "items":{
 "items":[
-{"amount":1,"item":"saas"},
-{"amount":1,"item":"meem"},
-{"amount":1,"item":"noice"},
-{"amount":1,"item":"dark-item"},
-{"amount":1,"item":"boom"}]},
+{"amount":5,"item":"saas"},
+{"amount":3,"item":"meem"},
+{"amount":2,"item":"noice"},
+{"amount":3,"item":"dark-item"},
+{"amount":5,"item":"boom"}]},
 "power":70},
 "craftTime":180,
-"description":"all these crap.....\ntake that",
+"description":"all these crap..... take that",
 "configurable":true,
 "hasItems":true,
 "hasLiquids":false,
@@ -18,7 +18,7 @@
 "idleSound":"respawning",
 "idleSoundVolume":0.5,
 "name":"Shining Legendary God Creator",
-"outputItem":{"amount":1,"item":"legendary-item"},
+"outputItem":{"amount":5,"item":"legendary-item"},
 "requirements":[
 {"amount":10,"item":"meem"},
 {"amount":10,"item":"saas"},
