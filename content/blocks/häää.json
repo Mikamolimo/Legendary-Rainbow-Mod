@@ -3,7 +3,7 @@
 	"name": "Imma firin mah lazor",
 	"description": "WAAAA",
 	"health": 20000,
-	"size": 2,
+	"size": 3,
 "shots":1,
 	"reloadTime": 100,
 	"range": 650,
@@ -33,7 +33,8 @@
 "statusDuration": 6000,
 "fragBullets":20,
 "fragBullet":{
-"type":"ContinuousLaserBulletType"}}},
+"type":"ContinuousLaserBulletType",
+"damage":50}}},
 "requirements":[
 		{ "item": "noice", "amount": 100 },
 		{ "item": "legendary-item", "amount":5}],
