@@ -1,15 +1,15 @@
 {
       "type": "separator",
-      "name": "Blightblende Extractor",
-      "description": "Splits molten Blightblende into its many Components.",
+      "name": "Super slag extractor",
+      "description": "Splits refined molten scrap into its many Components.",
       "liquidCapacity": 100,
       "results": [
-            {"item": "reiium", "amount": 1.0},
-            {"item": "weidanium", "amount": 1.0},
-			{"item": "australium", "amount": 1.0},
-            {"item": "verticium", "amount": 1.0},
-			{"item": "megatite", "amount": 1.0},
-			{"item": "daffergon", "amount": 1.0},
+            {"item": "blightbende", "amount": 3.0},
+            {"item": "cosmovum", "amount": 2.0},
+			{"item": "smelian", "amount": 5.0},
+            {"item": "schrabbidium", "amount": 2.0},
+			{"item": "surge-alloy", "amount": 1.0},
+			{"item": "unobtanium", "amount": 2.0},
       ]
       "size": 3,
       "hasPower": true,
@@ -18,14 +18,14 @@
       "updateEffect": "smeltsmoke",
       "consumes":{
     "liquid": {
-        "liquid": "molten-blightblende",
+        "liquid": "super-slag",
         "amount": 0.1
     },
     "power": 0.6
     },
       "requirements": [
-            { "item": "tech-core", "amount": 40 },
-            { "item": "unobtanium", "amount": 50 },
+            { "item": "surge-alloy", "amount": 100 },
+            { "item": "plastanium", "amount": 50 },
             { "item": "lead", "amount": 80 }
       ],
       "category": "crafting",
