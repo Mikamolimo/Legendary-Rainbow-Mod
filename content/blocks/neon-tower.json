@@ -125,7 +125,7 @@
 },
 "requirements": [
 {"amount":100,"item":"silicon"},
-{"amount":80,"item":"tungsten"},
+{"amount":80,"item":"smelian"},
 {"amount":60,"item":"titanium"},
 {"amount":250,"item":"light"},
 ],
