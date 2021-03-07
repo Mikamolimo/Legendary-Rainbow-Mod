@@ -15,7 +15,7 @@
 	},
 	"requirements": [
 		{ "item": "graphite", "amount": 50 },
-		{ "item": "tungsten", "amount": 80 },
+		{ "item": "smelian", "amount": 80 },
 		{ "item": "plastanium", "amount": 20 }
 	],
 	"category": "crafting",
