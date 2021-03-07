@@ -1,0 +1,12 @@
+{
+	"name": "Starmetal Wall",
+	"description": "A wall made of starmetal , is shinning.",
+	"type": "Wall",
+	"health": 3400,
+	"size": 2,
+	"requirements": [
+		{ "item": "starmetal", "amount": 40 }
+	],
+	"category": "defense",
+	"research": "titanium-wall"
+}

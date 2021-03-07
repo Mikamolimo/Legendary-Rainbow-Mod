@@ -1,0 +1,27 @@
+{
+"type": "SingleTypeGenerator",
+"name": "Void generator",
+"description": "!Needs one Fuel a Minute! Generates a lot of Power with the Power of Black Holes.",
+"size": 2,
+"hasPower": true,
+"hasItems": true,
+"itemDuration": 3600,
+"powerProduction": 40,
+"consumes": {
+"items": {
+"items": [
+{ "item": "void-generator-fuel", "amount": 1 }
+],
+"optional": true
+}},
+"requirements": [
+{"item":"metaglass", "amount": 40 },
+{"item":"unobtanium", "amount": 60 },
+{"item":"tech-core", "amount": 50 },
+{"item":"surge-alloy","amount":70},
+{"item":"titanium","amount":80},
+{"item":"copper","amount":110}
+],
+"category": "power",
+"research": "thorium-reactor"
+}

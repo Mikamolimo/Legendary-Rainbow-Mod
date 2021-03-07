@@ -1,0 +1,22 @@
+{
+	"type": "Conduit",
+	"name": "Surge alloy conduit",
+	"description": "A surge alloy conduit. Why more?",
+	"hasLiquids": true,
+	"liquidCapacity": 15,
+	"outputsLiquid": true,
+	"update": true,
+	"rotate": true,
+	"solid": false,
+	"group": "liquids",
+	"floating": true,
+	"requirements": [
+		{"item": "titanium", "amount": 1},
+		{"item": "surge-alloy", "amount": 3},
+		{"item": "metaglass", "amount": 3},
+		{"item": "unobtanium", "amount": 1}
+	],
+	"category": "liquid",
+	"speed": 0.132,
+	"research": "pulse-conduit"
+}

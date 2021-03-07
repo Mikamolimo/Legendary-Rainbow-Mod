@@ -1,0 +1,53 @@
+{
+	"type": "itemTurret",
+	"name": "Star Gatling",
+	"description": "A Nightmare for everything that flys.",
+	"health": 700,
+	"size": 3,
+	"reloadTime": 2,
+	"shootCone":20,
+	"range": 400,
+"frag":true,
+	"burstSpacing":10,
+	"targetAir":true,
+	"targetGround":false,
+	"inaccuracy": 6,
+	"rotatespeed": 12,
+	"ammoTypes": {
+		"starmetal": {
+			"speed": 8.0,
+			"damage":7,
+			"backColor":000000,
+			"frontColor":000000,
+			"bulletWidth": 7,
+			"bulletHeight": 9,
+			"shootEffect": "shootSmall",
+			"smokeEffect": "shootSmallSmoke",
+			"ammoMultiplier": 3,
+			"fragBullets":10,
+			"fragBullet":{
+        "bulletWidth": 6,
+        "bulletHeight": 8, 
+        "backColor": "ffffff",
+        "frontColor": "ffffff",
+        "despawnEffect": "hitBulletSmall",
+        "trailColor": "555555",
+        "smokeEffect": "shootSmallSmoke",
+        "collides": true,
+        "keepVelocity": true,
+        "speed": 4,
+        "damage": 9,
+        "splashDamage": 17,
+        "splashDamageRadius": 12
+      }
+		}
+	},
+	"requirements": [
+		{ "item": "starmetal", "amount": 110 },
+		{ "item": "tungsten", "amount": 100 },
+		{ "item": "titanium", "amount": 80 },
+		{ "item": "plastanium", "amount": 40 }
+	],
+	"category": "turret",
+	"research": "cyclone"
+}

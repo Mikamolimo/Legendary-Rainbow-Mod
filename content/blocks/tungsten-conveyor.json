@@ -1,0 +1,12 @@
+{
+	"type": "Conveyor",
+	"name": "Tungsten conveyor",
+	"description": "Use tungsten for a conveyor ?.",
+	"requirements": [
+		{"item": "tungsten", "amount":1},
+		{"item": "thorium", "amount": 1}
+	],
+	"category": "distribution",
+	"speed": 0.12,
+	"research": "conveyor"
+}

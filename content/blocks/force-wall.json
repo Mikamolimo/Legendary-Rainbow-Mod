@@ -1,0 +1,33 @@
+{
+"name":"Magical Wall",
+"description":"The force of this Walls give him extra Health.",
+"size":2,
+"category":"defense",
+"type":"forceProjector",
+"health":3500,
+"solid":true,
+"requirements":[
+{"item":"light","amount":100},{"item":"surge-alloy","amount":30}
+],
+"hasItems":true,
+"hasLiquids":true,
+"hasPower":true,
+"consumes":{
+"power":1,
+"items":{
+"items":[
+{"item":"phase-fabric","amount":1}],
+"booster":true,
+"optional":true
+}},
+"phaseUseTime":350,
+"phaseRadiusBoost":20,
+"radius":20,
+"breakage":1500,     
+ 
+"cooldownNormal":2,
+"cooldownLiquid":4,
+"cooldownBrokenBase":1.25,
+"basePowerDraw":0.2,
+"research":"xeno-projector"
+}

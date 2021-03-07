@@ -1,0 +1,33 @@
+{
+	"type": "Separator",
+	"name": "Light Separator",
+	"description": "The molten Light is to be used for extraction to get NEON.",
+	"results": [
+{"item": "neonyellow", "amount": 1},
+{"item": "neonred", "amount": 1},
+{"item": "neonblue", "amount": 1},
+{"item": "neongreen", "amount": 1},
+{"item": "neonorange", "amount": 1},
+{"item": "neonviolet", "amount":1},
+        ],
+	"size": 2,
+	"hasPower": true,
+	"hasLiquids": true,
+	"craftTime": 60,
+	"updateEffect": "none",
+	"consumes": {
+		"power": 3.5,
+		"liquid": {
+			"liquid": "molten-light", 
+			"amount": 0.4}},
+	"requirements": [
+		{ "item": "titanium", "amount": 65 },
+		{ "item": "copper", "amount": 135 },
+		{ "item": "thorium", "amount": 65 },
+		{ "item": "silicon", "amount": 85}
+	],
+	"category": "crafting",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.5,
+"research": "separator"
+}

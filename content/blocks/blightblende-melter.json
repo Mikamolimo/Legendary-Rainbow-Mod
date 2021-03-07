@@ -1,0 +1,25 @@
+{
+	"type": "GenericSmelter",
+	"name": "Blightblende Melter",
+	"description": "Uses Power to melt Blightblende.",
+	"liquidCapacity": 50,
+	"outputLiquid": {"liquid": "molten-blightblende", "amount": 5.0},
+	"size": 2,
+	"hasPower": true,
+	"hasLiquids": true,
+	"craftTime": 120,
+	"updateEffect": "smeltsmoke",
+	"consumes": {
+		"power": 1.7,
+		"item": "blightblende"
+	},
+	"requirements": [
+		{ "item": "graphite", "amount": 50 },
+		{ "item": "tungsten", "amount": 80 },
+		{ "item": "plastanium", "amount": 20 }
+	],
+	"category": "crafting",
+	"research": "melter",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.5
+}

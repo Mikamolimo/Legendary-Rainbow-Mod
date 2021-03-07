@@ -1,0 +1,6 @@
+{
+	"type": "OreBlock",
+	"name": "Light Ore",
+	"itemDrop": "light",
+	"playerUnmineable": true
+}

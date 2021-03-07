@@ -1,0 +1,13 @@
+{
+	"type": "Conveyor",
+	"name": "Surge-alloy conveyor",
+	"health":200,
+	"description": "A supersonic conveyor but the cost is extreme.",
+	"requirements": [
+		{"item": "surge-alloy", "amount":1},
+		{"item": "unobtanium", "amount": 1}
+	],
+	"category": "distribution",
+	"speed": 0.132,
+	"research": "conveyor"
+}

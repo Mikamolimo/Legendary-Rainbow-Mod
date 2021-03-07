@@ -1,0 +1,36 @@
+{
+	"type": "GenericSmelter",
+	"name": "Arc-Furnace",
+	"description": "Melts Astral Ore and then uses slag and thorium to make Starmetal.",
+	"liquidCapacity": 50,
+	"itemCapacity": 30,
+	"outputItem": {"item": "starmetal", "amount": 10},
+	"size": 2,
+	"hasPower": true,
+	"hasLiquids": true,
+	"hasItems": true,
+	"craftTime": 90,
+	"updateEffect": "smeltsmoke",
+	"consumes": {
+		"power": 0.9,
+		"items": {
+			"items": [
+				{ "item": "cosmovum", "amount": 15 },
+				{ "item": "thorium", "amount": 2 }
+			]
+		},
+		"liquid": {
+			"liquid": "slag",
+			"amount": 1.0
+		}
+	},
+	"requirements": [
+		{ "item": "lead", "amount": 80 },
+		{ "item": "thorium", "amount": 50 },
+		{ "item": "tech-core", "amount": 40 },
+		{ "item": "tungsten", "amount": 30 },
+		{ "item": "metaglass", "amount": 30 }
+	],
+	"category": "crafting",
+	"research": "silicon-smelter"
+}

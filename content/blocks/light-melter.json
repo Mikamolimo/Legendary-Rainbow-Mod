@@ -1,0 +1,26 @@
+{
+	"type": "GenericCrafter",
+	"name": "Light Melter",
+	"description": "Catch your light and hopes for Ammo production.",
+	"liquidCapacity": 50.0,
+	"outputLiquid": {"liquid": "molten-light", "amount": 10.0},
+	"size": 2,
+	"hasPower": true,
+	"hasLiquids": true,
+	"craftTime": 60,
+	"updateEffect": "smeltsmoke",
+	"consumes": {
+		"power": 1.2,
+		"item": "light"
+	},
+	"requirements": [
+		{ "item": "lead", "amount": 50 },
+		{ "item": "copper", "amount": 80 },
+		{ "item": "silicon", "amount": 20 },
+  { "item":"surge-alloy","amount":50},
+	],
+	"category": "crafting",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.5,
+"research":"light-separator"
+}

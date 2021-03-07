@@ -1,0 +1,23 @@
+{
+	"type": "GenericCrafter",
+	"name": "Light Press",
+	"description": "Takes all the Sunlight to craft Light.",
+	"outputItem": {"item": "light", "amount": 1},
+	"size": 3,
+	"hasPower": true,
+	"hasLiquids": false,
+	"craftTime": 300,
+	"updateEffect": "explosion",
+	"consumes": {
+		"power": 10
+	},
+	"requirements": [
+		{ "item": "metaglass", "amount": 200 },
+		{ "item": "plastanium", "amount": 125 },
+		{ "item": "silicon", "amount": 120 },
+	],
+	"category": "crafting",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.5,
+"research":"light-separator"
+}

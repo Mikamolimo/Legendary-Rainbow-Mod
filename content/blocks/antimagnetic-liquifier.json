@@ -1,0 +1,33 @@
+{
+	"type": "GenericCrafter",
+	"name": "Antimagnetic-Liquifier",
+	"description": "A very Stong Machine using Extreme Magnets to destroy Schrabbidium Atoms and to Combine them into liquid Antischrabbidium",
+	"itemCapacity":5,
+	"liquidCapacity":50.0,
+    "outputLiquid": {"liquid": "antischrabbidium", "amount": 1.0},
+	"size": 3,
+	"hasPower": true,
+	"hasItems": true,
+	"hasLiquids": true,
+	"craftTime": 60,
+	"updateEffect": "lancerLaserChargeBegin",
+	"consumes": {
+		"power": 1.5,
+		"items": {
+		"items": [
+			{"item": "schrabbidium", "amount": 1},
+{"item":"tech-core","amount":1}
+
+	]
+	}
+	},
+	"requirements": [
+		{ "item": "copper", "amount": 90 },
+		{ "item": "lead", "amount": 80 },
+		{ "item": "titanium", "amount": 50 },
+		{ "item": "tech-core", "amount": 30 },
+		{ "item": "schrabbidium", "amount": 10 }
+	],
+	"category": "crafting",
+	"research": "cyclotron"
+}

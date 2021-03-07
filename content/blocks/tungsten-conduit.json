@@ -1,0 +1,21 @@
+{
+	"type": "Conduit",
+	"name": "Tungsten conduit",
+	"description": "A tungsten conduit.",
+	"hasLiquids": true,
+	"liquidCapacity": 10,
+	"outputsLiquid": true,
+	"update": true,
+	"rotate": true,
+	"solid": false,
+	"group": "liquids",
+	"floating": true,
+	"requirements": [
+		{"item": "graphite", "amount": 1},
+		{"item": "tungsten", "amount": 3},
+		{"item": "metaglass", "amount": 3}
+	],
+	"category": "liquid",
+	"speed": 0.12,
+	"research": "pulse-conduit"
+}

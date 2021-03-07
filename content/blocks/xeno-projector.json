@@ -1,0 +1,36 @@
+{
+"name":"[cyan]Xeno[white] force-projector",
+"description":"Maybe the best force-projector create by human.",
+"size":3,
+"category":"effect",
+"type":"forceProjector",
+"health":600,
+"requirements":[
+            {"item":"starmetal","amount":100},
+            {"item":"tungsten","amount":75},
+            {"item":"starium","amount":150}
+                              ],
+"research":"force-projector",
+"hasItems":true,
+"hasLiquids":true,
+"hasPower":true,
+"consumes":{
+         "power":20,
+         "items":{
+              "items":[
+{
+"item":"phase-fabric","amount":1}],
+"booster":true,
+"optional":true 
+             
+         }
+    
+},
+"phaseRadiusBoost":100,
+"phaseUseTime":100,
+"radius":150,
+"breakage":750,     
+"cooldownNormal":3,
+"cooldownBrokenBase":0.75,
+"basePowerDraw":0.6
+}

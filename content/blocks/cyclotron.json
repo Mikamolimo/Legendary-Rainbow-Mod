@@ -1,0 +1,32 @@
+{
+	"type": "GenericSmelter",
+	"name": "Cyclotron",
+	"description": "Strong Machine that can make powerful Tech Cores.",
+	"itemCapacity": 10,
+    "outputItem": {"item": "tech-core", "amount": 2.0},
+	"size": 3,
+	"hasPower": true,
+	"hasItems": true,
+	"craftTime": 180,
+	"updateEffect": "padlaunch",
+	"consumes": {
+		"power": 1.6,
+		"items": {
+		"items": [
+			{"item": "tungsten", "amount": 5},
+			{"item": "copper", "amount": 5},
+			{"item": "silicon", "amount": 1}
+	]
+	}
+	},
+	"requirements": [
+		{ "item": "copper", "amount": 110 },
+		{ "item": "titanium", "amount": 70 },
+		{ "item": "silicon", "amount": 50 },
+		{ "item": "thorium", "amount": 30 }
+	],
+	"category": "crafting",
+	"research": "phase-weaver",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.5
+}

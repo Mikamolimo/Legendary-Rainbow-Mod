@@ -1,0 +1,35 @@
+{
+      "type": "separator",
+      "name": "Blightblende Extractor",
+      "description": "Splits molten Blightblende into its many Components.",
+      "liquidCapacity": 100,
+      "results": [
+            {"item": "reiium", "amount": 1.0},
+            {"item": "weidanium", "amount": 1.0},
+			{"item": "australium", "amount": 1.0},
+            {"item": "verticium", "amount": 1.0},
+			{"item": "megatite", "amount": 1.0},
+			{"item": "daffergon", "amount": 1.0},
+      ]
+      "size": 3,
+      "hasPower": true,
+      "hasLiquids": true,
+      "craftTime": 60,
+      "updateEffect": "smeltsmoke",
+      "consumes":{
+    "liquid": {
+        "liquid": "molten-blightblende",
+        "amount": 0.1
+    },
+    "power": 0.6
+    },
+      "requirements": [
+            { "item": "tech-core", "amount": 40 },
+            { "item": "unobtanium", "amount": 50 },
+            { "item": "lead", "amount": 80 }
+      ],
+      "category": "crafting",
+      "research": "separator",
+      "idleSound": "respawning",
+      "idleSoundVolume": 0.5
+}
