@@ -3,7 +3,7 @@
 	"name": "Surge alloy conduit",
 	"description": "A surge alloy conduit. Why more?",
 	"hasLiquids": true,
-	"liquidCapacity": 15,
+	"liquidCapacity": 30,
 	"outputsLiquid": true,
 	"update": true,
 	"rotate": true,
