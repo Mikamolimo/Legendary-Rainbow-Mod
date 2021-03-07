@@ -13,7 +13,7 @@
 		"power": 1.6,
 		"items": {
 		"items": [
-			{"item": "tungsten", "amount": 5},
+			{"item": "smelian", "amount": 5},
 			{"item": "copper", "amount": 5},
 			{"item": "silicon", "amount": 1}
 	]
