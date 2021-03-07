@@ -8,6 +8,6 @@
 		{"item": "unobtanium", "amount": 1}
 	],
 	"category": "distribution",
-	"speed": 0.132,
+	"speed": 25,
 	"research": "conveyor"
 }
