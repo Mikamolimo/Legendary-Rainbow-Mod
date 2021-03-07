@@ -1,0 +1,8 @@
+{
+	"type": "material",
+	"name": "Unobtanium",
+	"description": "A very strong Material that is very hard to mine. Sciencists found it some Months ago and said its way more stronger than Titanium.",
+	"cost": 0.5,
+	"color": "290da3",
+	"hardness":5
+}

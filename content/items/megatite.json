@@ -1,0 +1,7 @@
+{
+	"type": "material",
+	"name": "Megatite",
+	"description": "A material from the Fathest Stars.",
+	"cost": 1.5,
+	"color": "00ffd9"
+}

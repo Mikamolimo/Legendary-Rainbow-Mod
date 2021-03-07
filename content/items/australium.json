@@ -1,0 +1,7 @@
+{
+	"type": "material",
+	"name": "Australium",
+	"description": "Actually dont comes from Australia.",
+	"cost": 1.5,
+	"color": "fffb00"
+}

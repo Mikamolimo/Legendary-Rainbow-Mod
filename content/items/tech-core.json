@@ -1,0 +1,7 @@
+{
+	"type": "material",
+	"name": "Tech Core",
+	"description": "A very important Material for High-Tech Stuff.",
+	"cost": 1.5,
+	"color": "3e525e"
+}

@@ -1,0 +1,7 @@
+{
+	"type": "material",
+	"name": "Weidanium",
+	"description": "A pretty weird Material.",
+	"cost": 1.5,
+	"color": "ff9d00"
+}

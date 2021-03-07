@@ -1,0 +1,7 @@
+{
+	"type": "material",
+	"name": "Verticium",
+	"description": "WARNING:This Material contains extreme Toxins!",
+	"cost": 1.5,
+	"color": "00ff0d"
+}

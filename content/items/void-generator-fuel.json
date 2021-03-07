@@ -1,0 +1,7 @@
+{
+	"type": "material",
+	"name": "void fuel",
+	"description": "Hypermagnetic Fuel that can produce extreme Energy if used in a Void Reactor",
+	"cost": 2.5,
+	"color": "ff0000"
+}

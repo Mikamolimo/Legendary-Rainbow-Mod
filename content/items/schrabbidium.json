@@ -1,0 +1,8 @@
+{
+	"type": "material",
+	"name": "Schrabbidium",
+	"description": "A extremly Heavy Material. It could have some very good Powers.",
+	"cost": 2.5,
+	"color": "3e525e",
+	"hardness":5
+}
