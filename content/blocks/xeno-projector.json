@@ -7,7 +7,7 @@
 "health":600,
 "requirements":[
             {"item":"starmetal","amount":100},
-            {"item":"tungsten","amount":75},
+            {"item":"smelian","amount":75},
             {"item":"plastanium","amount":150}
                               ],
 "research":"force-projector",
