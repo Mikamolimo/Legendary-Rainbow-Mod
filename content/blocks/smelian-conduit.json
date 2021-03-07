@@ -1,9 +1,9 @@
 {
 	"type": "Conduit",
-	"name": "Tungsten conduit",
-	"description": "A tungsten conduit.",
+	"name": "Smelian conduit",
+	"description": "A sungsten conduit.",
 	"hasLiquids": true,
-	"liquidCapacity": 10,
+	"liquidCapacity": 15,
 	"outputsLiquid": true,
 	"update": true,
 	"rotate": true,
@@ -12,10 +12,10 @@
 	"floating": true,
 	"requirements": [
 		{"item": "graphite", "amount": 1},
-		{"item": "tungsten", "amount": 3},
+		{"item": "smelian", "amount": 3},
 		{"item": "metaglass", "amount": 3}
 	],
 	"category": "liquid",
-	"speed": 0.12,
+	"speed": 0.30,
 	"research": "pulse-conduit"
 }
