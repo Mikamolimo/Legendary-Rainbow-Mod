@@ -4,7 +4,7 @@
       "description": "Splits refined molten scrap into its many Components.",
       "liquidCapacity": 100,
       "results": [
-            {"item": "blightbende", "amount": 3.0},
+            {"item": "blightblende", "amount": 3.0},
             {"item": "cosmovum", "amount": 2.0},
 			{"item": "smelian", "amount": 5.0},
             {"item": "schrabbidium", "amount": 2.0},

@@ -28,7 +28,7 @@
 		{ "item": "lead", "amount": 80 },
 		{ "item": "thorium", "amount": 50 },
 		{ "item": "tech-core", "amount": 40 },
-		{ "item": "tungsten", "amount": 30 },
+		{ "item": "smelian", "amount": 30 },
 		{ "item": "metaglass", "amount": 30 }
 	],
 	"category": "crafting",
