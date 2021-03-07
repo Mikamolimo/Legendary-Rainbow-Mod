@@ -44,7 +44,7 @@
 	},
 	"requirements": [
 		{ "item": "starmetal", "amount": 110 },
-		{ "item": "tungsten", "amount": 100 },
+		{ "item": "smelian", "amount": 100 },
 		{ "item": "titanium", "amount": 80 },
 		{ "item": "plastanium", "amount": 40 }
 	],
