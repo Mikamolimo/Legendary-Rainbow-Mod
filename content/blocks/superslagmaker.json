@@ -1,16 +1,15 @@
-
 {"category":"crafting",
 "consumes":
 {"items":
 {"items":
-[{"amount":5,"item":"sand"},
-{"amount":"1","item":"plastanium"}]},
+[{"amount":2,"item":"metaglass"},
+{"amount":"1","item":"thorium"}]},
 "liquid":
 {"amount":0.05,
-"liquid":"cryofluid"},
+"liquid":"slag"},
 "power":0.7},
 "craftTime":60,
-"description":"Combines plastanium and sand with cryofluid to produce saas.",
+"description":"refines slag with items for super slag.",
 "hasItems":true,
 "hasLiquids":true,
 "hasPower":true,
@@ -19,10 +18,10 @@
 "idleSoundVolume":0.5,
 "idleSoundVolume":0.05,
 "liquidCapacity":25,
-"name":"Meem Maker",
-"outputItem":
+"name":"Super Slag refiner",
+"outputLiquid":
 {"amount":1,
-"item":"meem"},
+"liquid":"super-slag"},
 "requirements":
 [{"amount":50,"item":"lead"}
 ,{"amount":20,"item":"phase-fabric"},
