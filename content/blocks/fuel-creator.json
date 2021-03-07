@@ -27,7 +27,7 @@
 { "item": "lead", "amount": 90 },
 { "item": "copper", "amount": 110 },
 {"item":"thorium","amount":90},
-{"item":"tungsten","amount":60}
+{"item":"smelian","amount":60}
 ],
 	"category": "crafting",
 	"research": "cryofluid-mixer"
