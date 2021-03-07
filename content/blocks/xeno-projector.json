@@ -8,7 +8,7 @@
 "requirements":[
             {"item":"starmetal","amount":100},
             {"item":"tungsten","amount":75},
-            {"item":"starium","amount":150}
+            {"item":"plastanium","amount":150}
                               ],
 "research":"force-projector",
 "hasItems":true,
