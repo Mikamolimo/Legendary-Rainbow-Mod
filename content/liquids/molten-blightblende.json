@@ -1,0 +1,7 @@
+{
+	"name": "Molten Blightblende",
+	"description": "The Opposite of Schrabbidium, super lightweight, liquid and antimagnetic.",
+	"temperature": 0.8,
+    "viscosity": 0.6,
+    "color": "c145ff"
+}
