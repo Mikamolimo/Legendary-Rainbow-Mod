@@ -3,11 +3,11 @@
 	"name": "Light Melter",
 	"description": "Catch your light and hopes for Ammo production.",
 	"liquidCapacity": 50.0,
-	"outputLiquid": {"liquid": "molten-light", "amount": 10.0},
+	"outputLiquid": {"liquid": "molten-light", "amount": 3.0},
 	"size": 2,
 	"hasPower": true,
 	"hasLiquids": true,
-	"craftTime": 60,
+	"craftTime": 15,
 	"updateEffect": "smeltsmoke",
 	"consumes": {
 		"power": 1.2,
