@@ -11,6 +11,7 @@
 "burstSpacing":10,
 "targetAir":true,
 "targetGround":true,
+"frag": true,
 "inaccuracy": 3,
 "rotatespeed": 12,
 "ammoTypes": {
