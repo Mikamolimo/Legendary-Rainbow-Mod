@@ -69,7 +69,7 @@
 "fragBullets":5,
 "fragBullet":{
 "type":"ArtilleryBulletType"
-"speed" 2,
+"speed" :2,
 "lifetime":40,
 "damage":40,
 }},
