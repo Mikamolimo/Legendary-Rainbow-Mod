@@ -122,7 +122,11 @@
 "Height": 14,
 "shootEffect": "shootSmall",
 "smokeEffect": "shootSmallSmoke",
-"ammoMultiplier": 4}
+"ammoMultiplier": 4
+"fragbullets":3,
+"fragbullet":{
+  "LightningBulletType",
+"damage":15}}
 },
 "requirements": [
 {"amount":100,"item":"silicon"},
