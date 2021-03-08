@@ -14,12 +14,12 @@
       "size": 3,
       "hasPower": true,
       "hasLiquids": true,
-      "craftTime": 30,
+      "craftTime": 15,
       "updateEffect": "smeltsmoke",
       "consumes":{
     "liquid": {
         "liquid": "super-slag",
-        "amount": 0.1
+        "amount": 0.5
     },
     "power": 0.6
     },
