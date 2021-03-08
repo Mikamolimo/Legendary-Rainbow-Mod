@@ -18,11 +18,11 @@
 "collidesTiles": true,
 			"collidesAir": true,
 			"collides": true,
- "bulletWidth":25,
-"bulletHeight":25,
+ "Width":25,
+"Height":25,
     "lifetime": 400,
 "shootEffect":"blockExplosion",
-    "speed": 2,
+    "speed": 3,
     "splashDamageRadius": 2,
     "splashDamage": 20,
     "frontColor": "DF013A",
@@ -34,7 +34,7 @@
 "fragBullets":20,
 "fragBullet":{
 "type":"ContinuousLaserBulletType",
-"damage":50}}},
+"damage":70}}},
 "requirements":[
 		{ "item": "noice", "amount": 100 },
 		{ "item": "legendary-item", "amount":5}],
