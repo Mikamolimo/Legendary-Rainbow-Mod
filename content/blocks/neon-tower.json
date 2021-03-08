@@ -49,7 +49,7 @@
 "smokeEffect": "shootSmallSmoke",
 "ammoMultiplier": 4},
 "neonviolet": {
-"type": "MissileBulletType",
+"type": "ArtilleryBulletType",
 "collidesTiles": true,
 "collidesAir": true,
 "collides": true,
