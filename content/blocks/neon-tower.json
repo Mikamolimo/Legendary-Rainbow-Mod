@@ -122,7 +122,7 @@
 "Height": 14,
 "shootEffect": "shootSmall",
 "smokeEffect": "shootSmallSmoke",
-"ammoMultiplier": 4
+"ammoMultiplier": 4,
 "fragBullets":3,
 "fragBullet":{
 "LightningBulletType"
