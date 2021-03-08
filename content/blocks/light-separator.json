@@ -13,13 +13,13 @@
 	"size": 2,
 	"hasPower": true,
 	"hasLiquids": true,
-	"craftTime": 60,
+	"craftTime": 25,
 	"updateEffect": "none",
 	"consumes": {
 		"power": 3.5,
 		"liquid": {
 			"liquid": "molten-light", 
-			"amount": 0.4}},
+			"amount": 0.2}},
 	"requirements": [
 		{ "item": "titanium", "amount": 65 },
 		{ "item": "copper", "amount": 135 },
