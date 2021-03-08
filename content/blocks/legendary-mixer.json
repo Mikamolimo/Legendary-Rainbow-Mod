@@ -18,7 +18,7 @@
 "idleSound":"respawning",
 "idleSoundVolume":0.5,
 "name":"Shining Legendary God Creator",
-"outputItem":{"amount":5,"item":"legendary-item"},
+"outputItem":{"amount":1,"item":"legendary-item"},
 "requirements":[
 {"amount":10,"item":"meem"},
 {"amount":10,"item":"saas"},
