@@ -125,7 +125,7 @@
 "ammoMultiplier": 4,
 "fragBullets":3,
 "fragBullet":{
-"LightningBulletType"}}},
+"LightningBulletType"}},
 "requirements": [
 {"amount":100,"item":"silicon"},
 {"amount":80,"item":"smelian"},
