@@ -1,7 +1,7 @@
 {
 	"type": "Conduit",
 	"name": "Smelian conduit",
-	"description": "A sungsten conduit.",
+	"description": "A Smelian conduit.",
 	"hasLiquids": true,
 	"liquidCapacity": 15,
 	"outputsLiquid": true,
