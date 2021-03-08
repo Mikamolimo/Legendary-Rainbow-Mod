@@ -71,7 +71,8 @@
 "type":"ArtilleryBulletType"
 "speed" 2,
 "lifetime":40,
-"damage":40}},
+"damage":40,
+}},
 "neonblue": {
 "type": "ArtilleryBulletType",
 "collidesTiles": true,
