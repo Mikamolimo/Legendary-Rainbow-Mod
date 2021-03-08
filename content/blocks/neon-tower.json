@@ -123,8 +123,8 @@
 "shootEffect": "shootSmall",
 "smokeEffect": "shootSmallSmoke",
 "ammoMultiplier": 4
-"fragbullets":3,
-"fragbullet":{
+"fragBullets":3,
+"fragBullet":{
 "LightningBulletType"
 "damage":15}}
 },
