@@ -9,7 +9,7 @@
 	"frag": true,
 	"reloadTime": 320,
 	"range": 600,
-	"ammoUseEffect": "shellEjectSmall",
+	
 	"inaccuracy": 0,
 	"rotatespeed": 5,
 "shootSound":"shotgun",

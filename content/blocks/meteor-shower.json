@@ -8,7 +8,7 @@
 	"reloadTime": 500,
 	"frag": true,
 	"range": 450,
-	"ammoUseEffect": "shellEjectSmall",
+	
 	"inaccuracy": 0,
 	"rotatespeed": 1,
 	"ammoTypes": { 

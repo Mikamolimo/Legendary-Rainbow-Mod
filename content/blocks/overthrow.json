@@ -8,7 +8,7 @@
 	"reloadTime": 850,
 	"frag": true,
 	"range": 400,
-	"ammoUseEffect": "shellEjectSmall",
+	
 	"inaccuracy": 10,
 	"rotatespeed": 2,
 "shootSound":"flame",
