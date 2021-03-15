@@ -1,0 +1,48 @@
+{
+	"type": "ItemTurret",
+	"name": "Snoiper",
+	"description": "Whatever.",
+	"health": 5000,
+	"size": 4,
+	"shots":5,
+	"burstSpacing":3,
+	"frag": true,
+	"reloadTime": 320,
+	"range": 600,
+	"ammoUseEffect": "shellEjectSmall",
+	"inaccuracy": 0,
+	"rotatespeed": 5,
+"shootSound":"shotgun",
+"hitSound":"door",
+"ammoTypes": { 
+"copper": {
+"type": "ArtilleryBulletType",
+"collidesTiles": true,
+"collidesAir": true,
+"collides": true,
+"Width":25,
+"Height":50,
+    "lifetime": 60,
+"shootEffect":"hitLancer",
+    "speed": 10,
+	"damage": 750
+    "splashDamageRadius": 16,
+    "splashDamage": 30,
+    "frontColor": "FFFFFF",
+    "backColor": "FFFFFF",
+    "homingPower": 1,
+    "homingRange": 50,
+"fragBullets":20,
+"fragBullet":{
+"type":"ArtilleryBulletType",
+"speed":1,
+"lifetime":60,
+"collides": true,
+"splashDamageRadius": 32,
+"splashDamage": 50
+}}},
+"requirements":[
+		{ "item": "lead", "amount": 100 },
+		{ "item": "copper", "amount":5}],
+	"category": "turret"
+}

@@ -1,0 +1,36 @@
+{
+"type": "ItemTurret",
+  "name": "Last Hit",
+  "description": "knockback big bosses to handle swarms at first",
+  "range": 1200,
+  "burstSpacing":3,
+  "recoil": 1,
+  "shots":30,
+  "reloadTime": 600,
+  "inaccuracy":10,
+  "cooldown": 0.01,
+  "size": 3,
+  "health": 2500,
+  "targetAir": true,
+  "shootSound": "laser",
+  "ammoTypes": { 
+"copper": {
+"collidesTiles": true,
+"collidesAir": true,
+"collides": true,
+"Width":25,
+"Height":25,
+    "lifetime": 600,
+"shootEffect":"blockExplosion",
+    "speed": 5,
+	"damage":30,
+	"knockback":5000,
+	"status":"freezing",
+	"statusDuration":600
+}},
+  "requirements": [
+		{ "item": "copper", "amount": 50 },
+    { "item": "lead", "amount": 100 }
+   ],
+  "category": "turret"
+}

@@ -1,0 +1,48 @@
+{
+	"type": "ItemTurret",
+	"name": "Overthrow",
+	"description": "The Ultimate Nuke vs. swarms of small units. Dont use this for bosses.",
+	"health": 5000,
+	"size": 4,
+"shots":1,
+	"reloadTime": 850,
+	"frag": true,
+	"range": 400,
+	"ammoUseEffect": "shellEjectSmall",
+	"inaccuracy": 10,
+	"rotatespeed": 2,
+"shootSound":"flame",
+"hitSound":"explode",
+"ammoTypes": { 
+"copper": {
+"type": "MissileBulletType",
+"collidesTiles": true,
+"collidesAir": true,
+"collides": true,
+"Width":25,
+"Height":50,
+    "lifetime": 600,
+"shootEffect":"blockExplosion",
+    "speed": 2.5,
+    "splashDamageRadius": 160,
+    "splashDamage": 250,
+	"status": "freezing",
+	"statusDuration": 999999,
+    "frontColor": "14F22E",
+    "backColor": "714100",
+    "homingPower": 1,
+    "homingRange": 50,
+"fragBullets":1000,
+"fragBullet":{
+"type":"ArtilleryBulletType",
+"speed":7,
+"lifetime":60,
+"collides": false,
+"splashDamageRadius": 60,
+"splashDamage": 50
+}}},
+"requirements":[
+		{ "item": "lead", "amount": 100 },
+		{ "item": "copper", "amount":5}],
+	"category": "turret"
+}
