@@ -22,7 +22,12 @@
 "damage":40,
 "fragBullets":10,
 "fragBullet":{
-"type":"LightningBulletType"
+"type":"ArtilleryBulletType",
+"collidesTiles": true,
+"collidesAir": true,
+"collides": true,
+"pierce": true,
+"pierceCap":5,
 "status":"unmoving",
 "statusDuration":500
 }}},
