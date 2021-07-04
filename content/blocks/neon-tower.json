@@ -37,7 +37,7 @@
 "smokeEffect": "shootSmallSmoke",
 "ammoMultiplier": 4},
 "neongreen": {
-"type": "LaserBulletType",
+"type": "RailBulletType",
 "collidesTiles": true,
 "collidesAir": true,
 "collides": true,
@@ -45,7 +45,6 @@
 "backColor":39FF14,
 "frontColor":39FF14,
 "trailColor":39FF14,
-"width": 20,
 "lenght": 200,
 "shootEffect": "shootSmall",
 "smokeEffect": "shootSmallSmoke",
