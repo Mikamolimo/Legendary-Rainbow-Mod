@@ -24,7 +24,7 @@
 "shootEffect":"blockExplosion",
     "speed": 5,
 	"damage":30,
-	"knockback":50,
+	"knockback":250,
 	"status":"freezing",
 	"statusDuration":900
 }},
