@@ -21,9 +21,12 @@
 "updateEffectSeg":20.0,
 "damage":40,
 	"knockback":250,
+	"fragBullets":3,
+"fragBullet":{
+"type":"LightningBulletType"
 	"status":"disarmed",
 	"statusDuration":1000
-}},
+}}},
   "requirements": [
 		{ "item": "copper", "amount": 50 },
     { "item": "lead", "amount": 100 }
