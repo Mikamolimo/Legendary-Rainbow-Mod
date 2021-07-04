@@ -21,6 +21,8 @@
 "updateEffectSeg":20.0,
 "damage":40,
 "fragBullets":10,
+"status":"disarmed",
+"statusDuration":500
 "fragBullet":{
 "type":"ArtilleryBulletType",
 "collidesTiles": true,

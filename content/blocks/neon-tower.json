@@ -40,7 +40,7 @@
 "type": "RailBulletType",
 "pierceEffect":	"hitBulletSmall",		
 "pierceDamageFactor":1.0,
-"length":350.0,
+"length":450.0,
 "updateEffectSeg":20.0,
 "damage":40,
 "backColor":39FF14,
