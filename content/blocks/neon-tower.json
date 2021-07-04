@@ -37,7 +37,7 @@
 "smokeEffect": "shootSmallSmoke",
 "ammoMultiplier": 4},
 "neongreen": {
-"type": "RailBulletType",
+"type": "PointBulletType",
 "collidesTiles": true,
 "collidesAir": true,
 "collides": true,
