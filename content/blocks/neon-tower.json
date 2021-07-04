@@ -37,7 +37,7 @@
 "smokeEffect": "shootSmallSmoke",
 "ammoMultiplier": 4},
 "neongreen": {
-"type": "BulletType",
+"type": "RailBulletType",
 "pierceEffect":	"hitBulletSmall",		
 "pierceDamageFactor":1.0,
 "length":100.0,
