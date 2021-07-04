@@ -14,15 +14,12 @@
   "shootSound": "laser",
   "ammoTypes": { 
 "copper": {
-"collidesTiles": true,
-"collidesAir": true,
-"collides": true,
-"Width":25,
-"Height":25,
-    "lifetime": 600,
-"shootEffect":"blockExplosion",
-    "speed": 5,
-	"damage":30,
+"type": "RailBulletType",
+"pierceEffect":	"hitBulletSmall",		
+"pierceDamageFactor":1.0,
+"length":350.0,
+"updateEffectSeg":20.0,
+"damage":40,
 	"knockback":250,
 	"status":"disarmed",
 	"statusDuration":100
