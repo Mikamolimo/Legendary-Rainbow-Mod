@@ -2,7 +2,7 @@
 "type": "ItemTurret",
   "name": "Last Hit",
   "description": "knockback big bosses to handle swarms at first",
-  "range": 1200,
+  "range": 900,
   "burstSpacing":3,
   "recoil": 1,
   "shots":30,
@@ -24,9 +24,9 @@
 "shootEffect":"blockExplosion",
     "speed": 5,
 	"damage":30,
-	"knockback":5000,
+	"knockback":50,
 	"status":"freezing",
-	"statusDuration":600
+	"statusDuration":900
 }},
   "requirements": [
 		{ "item": "copper", "amount": 50 },
