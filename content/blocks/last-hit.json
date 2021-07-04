@@ -17,12 +17,12 @@
 "type": "RailBulletType",
 "pierceEffect":	"hitBulletSmall",		
 "pierceDamageFactor":1.0,
-"length":350.0,
+"length":900.0,
 "updateEffectSeg":20.0,
 "damage":40,
 	"knockback":250,
 	"status":"disarmed",
-	"statusDuration":100
+	"statusDuration":1000
 }},
   "requirements": [
 		{ "item": "copper", "amount": 50 },
