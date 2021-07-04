@@ -3,11 +3,10 @@
   "name": "Last Hit",
   "description": "knockback big bosses to handle swarms at first",
   "range": 900,
-  "burstSpacing":3,
   "recoil": 1,
-  "shots":30,
-  "reloadTime": 600,
-  "inaccuracy":10,
+  "shots":1,
+  "reloadTime": 20,
+  "inaccuracy":0,
   "cooldown": 0.01,
   "size": 3,
   "health": 2500,
@@ -25,7 +24,7 @@
     "speed": 5,
 	"damage":30,
 	"knockback":250,
-	"status":"freezing",
+	"status":"corroded",
 	"statusDuration":900
 }},
   "requirements": [
