@@ -20,8 +20,9 @@
 "length":900.0,
 "updateEffectSeg":20.0,
 "damage":40,
-	"knockback":250,
-	"fragBullets":10,
+"fragBullets":10,
+"status":"unmoving",
+"statusDuration":400,
 "fragBullet":{
 "type":"LightningBulletType"
 	"status":"disarmed",
