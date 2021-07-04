@@ -24,8 +24,8 @@
     "speed": 5,
 	"damage":30,
 	"knockback":250,
-	"status":"corroded",
-	"statusDuration":900
+	"status":"disarmed",
+	"statusDuration":100
 }},
   "requirements": [
 		{ "item": "copper", "amount": 50 },
