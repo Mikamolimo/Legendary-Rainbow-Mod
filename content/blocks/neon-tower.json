@@ -5,7 +5,7 @@
 "health": 7000,
 "size": 3,
 "shots":5,
-"reloadTime": 10,
+"reloadTime": 5,
 "shootCone":6,
 "range": 450,
 "burstSpacing":10,
@@ -16,7 +16,7 @@
 "rotatespeed": 12,
 "ammoTypes": {
 "neonred": {
-"type": "MissileBulletType",
+"type": "ArtilleryBulletType",
 "collidesTiles": true,
 "collidesAir": true,
 "collides": true,

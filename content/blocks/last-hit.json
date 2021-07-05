@@ -26,8 +26,8 @@
 "fragBullet":{
 "type":"ArtilleryBulletType",
 "homing":true,
-"homingPower":3,
-"homingRange":15,
+"homingPower":10,
+"homingRange":30,
 "collidesTiles": true,
 "collidesAir": true,
 "collides": true,
