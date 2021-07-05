@@ -25,6 +25,9 @@
 "statusDuration":500
 "fragBullet":{
 "type":"ArtilleryBulletType",
+"homing":true,
+"homingPower":3,
+"homingRange":15,
 "collidesTiles": true,
 "collidesAir": true,
 "collides": true,
