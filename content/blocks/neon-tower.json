@@ -1,11 +1,11 @@
 {
 "type": "itemTurret",
 "name": "Neon tower",
-"description": "Shoot light (pew pew pew)",
-"health": 700,
+"description": "with enormous costs,you get a weapon against everything",
+"health": 7000,
 "size": 3,
-"shots":4,
-"reloadTime": 1,
+"shots":5,
+"reloadTime": 10,
 "shootCone":6,
 "range": 450,
 "burstSpacing":10,
@@ -16,7 +16,7 @@
 "rotatespeed": 12,
 "ammoTypes": {
 "neonred": {
-"type": "ArtilleryBulletType",
+"type": "MissileBulletType",
 "collidesTiles": true,
 "collidesAir": true,
 "collides": true,
@@ -31,11 +31,11 @@
 "Width": 10,
 "Height": 14,
 "pierce": true,
-"pierceCap":3,
+"pierceCap":5,
 "shootEffect": "shootSmall",
   "hitEffect":"explosion",
 "smokeEffect": "shootSmallSmoke",
-"ammoMultiplier": 4},
+"ammoMultiplier": 3},
 "neongreen": {
 "type": "RailBulletType",
 "pierceEffect":	"hitBulletSmall",		
@@ -46,7 +46,7 @@
 "backColor":39FF14,
 "frontColor":39FF14,
 "trailColor":39FF14,
-"ammoMultiplier": 4},
+"ammoMultiplier": 3},
 "neonviolet": {
 "type": "ArtilleryBulletType",
 "collidesTiles": true,
@@ -64,7 +64,7 @@
 "Height": 14,
 "shootEffect": "shootSmall",
 "smokeEffect": "shootSmallSmoke",
-"ammoMultiplier": 4,
+"ammoMultiplier": 3,
 "fragBullets":10,
 "fragBullet":{
 "type":"ArtilleryBulletType"
@@ -97,7 +97,7 @@
 "statusDuration": 500,
 "shootEffect": "shootSmall",
 "smokeEffect": "shootSmallSmoke",
-"ammoMultiplier": 4},
+"ammoMultiplier": 3},
 "neonorange": {
 "type": "ArtilleryBulletType",
 "collidesTiles": true,
@@ -117,7 +117,7 @@
 "statusDuration": 500,
 "shootEffect": "shootSmall",
 "smokeEffect": "shootSmallSmoke",
-"ammoMultiplier": 4},
+"ammoMultiplier": 3},
 "neonyellow": {
 "type": "ArtilleryBulletType",
 "collidesTiles": true,
@@ -135,15 +135,15 @@
 "Height": 14,
 "shootEffect": "shootSmall",
 "smokeEffect": "shootSmallSmoke",
-"ammoMultiplier": 4,
+"ammoMultiplier": 3,
 "fragBullets":3,
 "fragBullet":{
 "type":"LightningBulletType"}}},
 "requirements": [
-{"amount":100,"item":"silicon"},
-{"amount":80,"item":"smelian"},
-{"amount":60,"item":"titanium"},
-{"amount":250,"item":"light"},
+{"amount":1000,"item":"silicon"},
+{"amount":800,"item":"smelian"},
+{"amount":600,"item":"titanium"},
+{"amount":2500,"item":"light"},
 ],
 "category": "turret",
 "research": "spectre"
