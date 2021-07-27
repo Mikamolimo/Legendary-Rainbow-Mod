@@ -5,13 +5,13 @@
 	"itemCapacity": 0,
 	"size": 1,
 	"hasLiquids": true,
-    "powerProduction": 0.8,
+    "powerProduction": 1.5,
     "itemDuration" : 10,
 	"consumes": {
 		"power": 0,
 		"liquid": {
 			"liquid": "water",
-			"amount": 0.125
+			"amount": 0.1
 			}
     },
 	"requirements": [
