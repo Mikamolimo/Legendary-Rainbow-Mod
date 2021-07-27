@@ -1,4 +1,4 @@
-type: LiquidGenerator
+type: PowerGenerator
 name: "water turbine"
 description: "Uses water to produce power."
 health: 150
@@ -10,7 +10,7 @@ generateEffect: smelt
 consumes: {
 liquid: {
   liquid: water
-  amount: 1
+  amount: 0.5
 }
 }
 requirements: [
