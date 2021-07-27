@@ -8,8 +8,6 @@
     "powerProduction": 0.7,
     "itemDuration" : 10,
 	"consumes": {
-		"item": "copper",
-		"amount":0,
 		"liquid": {
 			"liquid": "water",
 			"amount": 0.25
