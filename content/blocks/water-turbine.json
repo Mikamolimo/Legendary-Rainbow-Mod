@@ -1,0 +1,24 @@
+{
+"type": "SingleTypeGenerator",
+"name": "Water Turbine",
+"description": "!Needs one Fuel a Minute! Generates a lot of Power with the Power of Black Holes.",
+"size": 2,
+"hasPower": true,
+"hasItems": true,
+"hasLiquids": true,
+"liquidDuration": 36,
+"powerProduction": 40,
+"consumes": {
+"liquids": {
+"liquids": [
+{ "liquid": "water", "amount": 1 }
+],
+"optional": true
+}},
+"requirements": [
+{"item":"metaglass", "amount": 40 },
+{"item":"titanium","amount":80},
+{"item":"copper","amount":110}
+],
+"category": "power"
+}
