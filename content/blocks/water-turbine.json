@@ -1,5 +1,5 @@
 {
-"type": "SingleTypeGenerator",
+"type": "ItemLiquidGenerator",
 "name": "Water Turbine",
 "description": "!Needs one Fuel a Minute! Generates a lot of Power with the Power of Black Holes.",
 "size": 2,
@@ -7,7 +7,7 @@
 "hasItems": true,
 "hasLiquids": true,
 "liquidDuration": 36,
-"powerProduction": 40,
+"powerProduction": 1,
 "consumes": {
 "liquids": {
 "liquids": [
