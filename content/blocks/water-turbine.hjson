@@ -3,9 +3,8 @@ name: "water turbine"
 description: "Uses water to produce power."
 health: 150
 size: 1
-minLiquidEfficiency	0.2	
-maxLiquidGenerate 0.4
-generateEffect: smelt
+minLiquidEfficiency: 0.2	
+maxLiquidGenerate: 0.4
 consumes: {
 liquid: {
   liquid: water
