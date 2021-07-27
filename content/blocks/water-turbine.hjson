@@ -5,11 +5,12 @@ health: 150
 size: 1
 minLiquidEfficiency: 0.2	
 maxLiquidGenerate: 0.4
-powerProduction: 2
+powerProduction: 0.7
+generationType: basePowerGeneration	
 consumes: {
 liquid: {
   liquid: water
-  amount: 0.25
+  amount: 0.125
 }
 }
 requirements: [
