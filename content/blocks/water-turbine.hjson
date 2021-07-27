@@ -1,4 +1,4 @@
-type: BurnerGenerator
+type: ItemLiquidGenerator
 name: "water turbine"
 description: "Uses water to produce power."
 health: 150
