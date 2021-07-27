@@ -4,14 +4,14 @@
 "description": "!Needs one Fuel a Minute! Generates a lot of Power with the Power of Black Holes.",
 "size": 2,
 "hasPower": true,
-"hasItems": true,
+"hasItems": false,
 "hasLiquids": true,
 "liquidDuration": 36,
 "powerProduction": 1,
 "consumes": {
-"liquids": {
-"liquids": [
-{ "liquid": "water", "amount": 1 }
+"items": {
+"items": [
+{ "item": "water", "amount": 1 }
 ],
 "optional": true
 }},
