@@ -1,0 +1,24 @@
+{
+type: BurnerGenerator
+name: "water turbine"
+description: "Uses water to produce power."
+health: 150
+size: 1
+powerProduction: 2
+hasItems: true
+itemCapacity: 15
+itemDuration: 75
+generateEffect: smelt
+minItemEfficiency: 0.3
+consumes: {
+liquid: {
+  liquid: water
+  amount: 1
+}
+}
+requirements: [
+  copper/50
+  titanium/25
+]
+category: power
+
