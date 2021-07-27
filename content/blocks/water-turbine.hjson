@@ -5,6 +5,7 @@ health: 150
 size: 1
 minLiquidEfficiency: 0.2	
 maxLiquidGenerate: 0.4
+powerProduction: 2
 consumes: {
 liquid: {
   liquid: water
