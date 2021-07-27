@@ -1,0 +1,27 @@
+{
+	"type": "ImpactReactor",
+	"name": "water turbine",
+	"description": "Reactor that makes alot of energy",
+	"itemCapacity": 0,
+	"size": 1,
+	"hasLiquids": true,
+    "powerProduction": 0.7,
+    "itemDuration" : 10,
+	"consumes": {
+		"item": "copper",
+		"amount":0,
+		"liquid": {
+			"liquid": "water",
+			"amount": 0.25
+			}
+    },
+	"requirements": [
+		{ "item": "copper", "amount": 50 },
+		{ "item": "lead", "amount": 30 },
+		{ "item": "titanium", "amount": 20},
+		{ "item": "metaglass", "amount": 10}
+	],
+	"category": "power",
+	"research": "legendary-mixer",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.05
