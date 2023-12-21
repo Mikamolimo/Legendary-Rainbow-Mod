@@ -4,12 +4,12 @@
 	"type": "Drill",
 	"size": 3,
 	"tier": 9999999,
-	"drillTime": -9999999,
+	"drillTime": -99,
 	"consumes": {
 		"power": 3.0,
 		"liquid": {
 			"liquid": "water", 
-			"amount": 0.01,
+			"amount": 1,
 			"booster": true
 		}
 	},
