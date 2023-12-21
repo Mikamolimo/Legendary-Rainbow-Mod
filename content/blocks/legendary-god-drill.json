@@ -2,9 +2,12 @@
 	"name": "Legendary God Drill",
 	"description": "A very strange drill.",
 	"type": "Drill",
+	"rotateSpeed": 5,
+	"warmupSpeed", 0.001,
 	"size": 3,
-	"tier": 10,
-	"drillTime": 1,
+	"tier": 9,
+	"liquidBoostIntensity": 10,
+	"drillTime": 0.5,
 	"consumes": {
 		"power": 4.0,
 		"liquid": {
