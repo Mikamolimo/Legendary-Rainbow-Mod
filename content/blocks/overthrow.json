@@ -22,7 +22,7 @@
 "Width":25,
 "Height":50,
     "lifetime": 600,
-"shootEffect":"blockExplosion",
+"shootEffect":"explosion",
     "speed": 2.5,
     "splashDamageRadius": 160,
     "splashDamage": 250,
