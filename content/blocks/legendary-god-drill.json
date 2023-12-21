@@ -3,7 +3,7 @@
 	"description": "A very strange drill.",
 	"type": "Drill",
 	"rotateSpeed": 5,
-	"warmupSpeed", 0.001,
+	"warmupSpeed": 0.001,
 	"size": 3,
 	"tier": 9,
 	"liquidBoostIntensity": 10,
