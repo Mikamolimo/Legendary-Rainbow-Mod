@@ -20,7 +20,7 @@
 "Width":5,
 "Height":10,
     "lifetime": 180,
-"shootEffect":"blockExplosion",
+"shootEffect":"explosion",
     "speed": 5,
 	"damage":50,
     "frontColor": "14F22E",
