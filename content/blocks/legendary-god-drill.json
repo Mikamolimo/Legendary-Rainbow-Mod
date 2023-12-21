@@ -6,14 +6,15 @@
 	"warmupSpeed": 0.001,
 	"size": 3,
 	"tier": 4,
-	"liquidBoostIntensity": 2.8,
-	"drillTime": 0.1,
+	"liquidBoostIntensity": 0.1,
+	"drillTime": 5,
 	"consumes": {
 		"power": 4.0,
 		"liquid": {
 			"liquid": "water", 
 			"amount": 1,
-			"booster": true
+			"booster": true,
+			"optional": true
 		}
 	},
 	"requirements": [
