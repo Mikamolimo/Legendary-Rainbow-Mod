@@ -3,10 +3,10 @@
 	"description": "A very strange drill.",
 	"type": "Drill",
 	"size": 3,
-	"tier": 9999999,
+	"tier": 100,
 	"drillTime": -99,
 	"consumes": {
-		"power": 3.0,
+		"power": 4.0,
 		"liquid": {
 			"liquid": "water", 
 			"amount": 1,
