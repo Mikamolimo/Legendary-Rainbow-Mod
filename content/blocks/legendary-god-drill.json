@@ -5,9 +5,9 @@
 	"rotateSpeed": 5,
 	"warmupSpeed": 0.001,
 	"size": 3,
-	"tier": 8,
-	"liquidBoostIntensity": 2,
-	"drillTime": 0.5,
+	"tier": 7,
+	"liquidBoostIntensity": 3,
+	"drillTime": 0.1,
 	"consumes": {
 		"power": 4.0,
 		"liquid": {
