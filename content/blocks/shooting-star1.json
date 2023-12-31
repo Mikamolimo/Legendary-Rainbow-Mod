@@ -12,10 +12,10 @@
 "hasLiquids": true,
 "liquidCapacity": 20,
 "acceptCoolant" : true,
-"coolantUse": 0.8,
+"coolantConsumption": 0.8,
 "consumes": {
 "coolant": {
-"amount": 0.1}},
+"amount": 0.15}},
 "shootCone": 4,
 "rotateSpeed": 1.5,
 "shots": 6,
