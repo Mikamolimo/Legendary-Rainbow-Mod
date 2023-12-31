@@ -1,5 +1,5 @@
 {"category":"crafting",
 "name":"Saas Maker",
 "consumes":{"items":{"items":[{"amount":3,"item":"metaglass"},{"amount":"2","item":"spore-pod"}]},"power":0.7},"craftTime":60,"description":"Combines metaglass and spore pod to produce saas.","hasItems":true,"hasLiquids":false,"hasPower":true,"idleSound":"respawning","idleSoundVolume":0.5,"outputItem":{"amount":1,"item":"saas"},"requirements":[{"amount":50,"item":"lead"},{"amount":80,"item":"thorium"},{"amount":60,"item":"silicon"},{"amount":20,"item":"surge-alloy"}],
-"research":"graphite-press","size":2,"type":"GenericSmelter","updateEffect":"smeltsmoke","idleSound": "respawning",
+"research":"graphite-press","size":2,"type":"GenericCrafter","updateEffect":"smeltsmoke","idleSound": "respawning",
 	"idleSoundVolume": 0.05}
