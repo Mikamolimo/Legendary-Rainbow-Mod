@@ -20,7 +20,7 @@
   "idleSoundVolume":0.05,
   "liquid capacity":25,
   "name":"boomer",
-  "outputItem":{"item":"boom","amount":1,},
+  "outputItem":{"item":"boom","amount":1},
   "requirements":[
     {
     "amount":100,"item":"copper"},
