@@ -9,7 +9,10 @@
 "inaccuracy": 5,
 "frag":true,
 "reloadTime": 10,
+"hasLiquids": true,
 "liquidCapacity": 20,
+"acceptCoolant" : true,
+"coolantUse": 0.5,
 "shootCone": 4,
 "rotateSpeed": 1.5,
 "shots": 6,
@@ -17,7 +20,7 @@
 "ammoTypes": {
 "saas": {
 "type": "MissileBulletType",
-"lifetime": 200,
+"lifetime": 150,
 "splashDamageRadius": 30,
 "splashDamage": 10,
 "speed": 3,
