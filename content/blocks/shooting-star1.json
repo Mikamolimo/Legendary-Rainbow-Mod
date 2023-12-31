@@ -9,8 +9,7 @@
 "inaccuracy": 5,
 "frag":true,
 "reloadTime": 10,
-"coolant":{
-  "ConsumeCoolant": 0.5},
+"coolant":"ConsumeLiquidBase",
 "shootCone": 4,
 "rotateSpeed": 1.5,
 "shots": 6,
