@@ -29,5 +29,5 @@
 {"amount":60,"item":"metaglass"},
 {"amount":250,"item":"saas"}],
 "research":"saas-maker",
-"size":2,"type":"GenericSmelter",
+"size":2,"type":"GenericCrafter",
 "updateEffect":"smeltsmoke"}
