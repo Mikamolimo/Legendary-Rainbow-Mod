@@ -9,6 +9,7 @@
 "inaccuracy": 5,
 "frag":true,
 "reloadTime": 10,
+"coolant": null,
 "coolantMultiplier":5.0,
 "shootCone": 4,
 "rotateSpeed": 1.5,
