@@ -29,6 +29,6 @@
   ],
   "research":"magical-mixer",
   "size":2,
-  "type":"GenericSmelter",
+  "type":"GenericCrafter",
   "updateEffect":"smeltsmoke"
 }
