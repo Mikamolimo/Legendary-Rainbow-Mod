@@ -1,5 +1,5 @@
 {
-"type": "SingleTypeGenerator",
+"type": "ConsumeGenerator",
 "name": "Void generator",
 "description": "!Needs one Fuel a Minute! Generates a lot of Power with the Power of Black Holes.",
 "size": 2,
