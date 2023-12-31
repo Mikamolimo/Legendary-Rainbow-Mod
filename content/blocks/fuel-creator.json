@@ -1,5 +1,5 @@
 {
-	"type": "GenericSmelter",
+	"type": "GenericCrafter",
 	"name": "Fuel compressor",
 	"description": "Put in one cell the fuel for void reactor.",
 	"liquidCapacity": 100 ,
