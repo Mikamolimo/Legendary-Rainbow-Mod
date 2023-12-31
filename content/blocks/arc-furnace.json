@@ -1,5 +1,5 @@
 {
-	"type": "GenericSmelter",
+	"type": "GenericCrafter",
 	"name": "Arc-Furnace",
 	"description": "Melts Astral Ore and then uses slag and thorium to make Starmetal.",
 	"liquidCapacity": 50,
