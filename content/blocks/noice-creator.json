@@ -23,5 +23,5 @@
 				{"amount":30,"item":"plastanium"},{"amount":250,"item":"lead"},
 				{"amount":10,"item":"meem"}],
 				"research":"meem-maker",
-				"size":2,"type":"GenericSmelter",
+				"size":2,"type":"GenericCrafter",
 				"updateEffect":"smeltsmoke"}
