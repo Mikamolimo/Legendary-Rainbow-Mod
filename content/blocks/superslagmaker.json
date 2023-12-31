@@ -20,7 +20,7 @@
 "liquidCapacity":25,
 "name":"Super Slag refiner",
 "outputLiquid":
-{"amount":25,
+{"amount":0.25,
 "liquid":"super-slag"},
 "requirements":
 [{"amount":50,"item":"lead"}
