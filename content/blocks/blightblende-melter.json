@@ -1,5 +1,5 @@
 {
-	"type": "GenericSmelter",
+	"type": "GenericCrafter",
 	"name": "Blightblende Melter",
 	"description": "Uses Power to melt Blightblende.",
 	"liquidCapacity": 50,
