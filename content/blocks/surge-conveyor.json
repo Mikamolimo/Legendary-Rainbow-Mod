@@ -4,8 +4,8 @@
 	"health":200,
 	"description": "A supersonic conveyor but the cost is extreme.",
 	"requirements": [
-		{"item": "surge-alloy", "amount":1},
-		{"item": "unobtanium", "amount": 1}
+		{"item": "surge-alloy", "amount":5},
+		{"item": "unobtanium", "amount": 2}
 	],
 	"category": "distribution",
 	"speed": 0.5,
