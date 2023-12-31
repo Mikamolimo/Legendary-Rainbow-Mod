@@ -13,7 +13,7 @@
 "liquidCapacity": 20,
 "acceptCoolant" : true,
 "coolantUse": 0.5,
-"coolant": "water",
+"coolant": true,
 "shootCone": 4,
 "rotateSpeed": 1.5,
 "shots": 6,
