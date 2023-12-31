@@ -12,7 +12,7 @@
 "hasLiquids": true,
 "liquidCapacity": 20,
 "acceptCoolant" : true,
-"coolantUse": 0.5,
+"coolantUse": 0.8,
 "consumes": {
 "coolant": {
 "amount": 0.1}},
