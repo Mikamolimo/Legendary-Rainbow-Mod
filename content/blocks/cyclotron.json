@@ -1,5 +1,5 @@
 {
-	"type": "GenericSmelter",
+	"type": "GenericCrafter",
 	"name": "Cyclotron",
 	"description": "Strong Machine that can make powerful Tech Cores.",
 	"itemCapacity": 10,
