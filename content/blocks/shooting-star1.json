@@ -15,7 +15,7 @@
 "coolantUse": 0.5,
 "consumes": {
 "coolant": {
-"amount": 1}},
+"amount": 0.1}},
 "shootCone": 4,
 "rotateSpeed": 1.5,
 "shots": 6,
