@@ -1,1 +1,34 @@
-{"category":"crafting","consumes":{"items":{"items":[{"amount":3,"item":"graphite"}]},"liquid":{"amount":0.05,"liquid":"slag"},"power":0.7},"craftTime":60,"description":"slag and graphite makes me boom","hasItems":true,"hasLiquids":true,"hasPower":true,"idleSound":"respawning","idleSound":"respawning","idleSoundVolume":0.5,"idleSoundVolume":0.05,"liquid capacity":25,"name":"boomer","outputItem":{"amount":1,"item":"boom"},"requirements":[{"amount":100,"item":"copper"},{"amount":100,"item":"saas"},{"amount":50,"item":"noice"}],"research":"magical-mixer","size":2,"type":"GenericSmelter","updateEffect":"smeltsmoke"}
+{
+  "category":"crafting",
+  "consumes":{
+    "items":{
+      "items":[
+        {"amount":3,"item":"graphite"}
+      ]
+    },
+    "liquid":
+    {"amount":0.05,"liquid":"slag"},
+    "power":0.7},
+  "craftTime":60,
+  "description":"slag and graphite makes me boom",
+  "hasItems":true,
+  "hasLiquids":true,
+  "hasPower":true,
+  "idleSound":"respawning",
+  "idleSound":"respawning",
+  "idleSoundVolume":0.5,
+  "idleSoundVolume":0.05,
+  "liquid capacity":25,
+  "name":"boomer",
+  "outputItem":{"item":"boom","amount":1,},
+  "requirements":[
+    {
+    "amount":100,"item":"copper"},
+    {"amount":100,"item":"saas"},
+    {"amount":50,"item":"noice"}
+  ],
+  "research":"magical-mixer",
+  "size":2,
+  "type":"GenericSmelter",
+  "updateEffect":"smeltsmoke"
+}
